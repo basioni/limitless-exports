@@ -1,0 +1,26 @@
+/*
+    Theme Name: moretheme
+    Theme URI: http://vergatheme.com/more
+    Author: Verga Theme
+    Author URI: http://vergatheme.com
+    Release Date: 31 April 2014
+    Requirements: WordPress 3.0 or higher, PHP 5
+    Compatibility: WordPress 3.8.1
+    Tags: web app
+    Last Update Date: 31 April 2014
+*/
+
+/**** Changelog ****/
+
+"Please backup your theme pack files at first before you update the theme into the latest version"
+2014.02.08 - version 1.0.3
+Update : Aqua Page Builder
+Fix : logo
+fix : Block Element Page Builder
+
+2014.09.05 - version 1.0.1
+add more : logo text, style css - theme option.
+files edit: functions.options.php, functions.php, header.php, header-home.php
+
+2014.03.24 - version 1.0.0
+- First release.

@@ -1,0 +1,773 @@
+@media (max-width: 480px) {
+
+	.container {
+
+		width: 300px !important;
+
+	}
+
+	.main-content h2{
+		font-size: 20px;
+	}
+
+	.testimonials-1 img{
+		display: none;
+	}
+
+	.testimonials-1 .jcarousel-skin-tango .jcarousel-item-horizontal{
+		padding-left: 0;
+	}
+
+	.site-desc {
+
+		display: none;
+
+	}
+
+	.site-desktop-menu {
+
+		display: none;
+
+	}
+
+	.site-logo {
+
+		width: auto;
+
+		margin: 0px;
+
+		font-size: 24px !important;
+
+	}
+
+	.header-social-buttons {
+
+		display: none;
+
+	}
+
+	nav.site-mobile-menu {
+
+		margin-top: -80px !important;
+
+	}
+
+	.latest-blog-posts .jcarousel-skin-tango .jcarousel-item-horizontal .latest-blog-post-img img {
+
+		display: none;
+
+	}
+
+	.latest-blog-posts .jcarousel-skin-tango .jcarousel-item-horizontal {
+
+		padding-left: 75px !important;
+
+	}
+
+	.latest-blog-posts-2 .jcarousel-skin-tango .jcarousel-item-horizontal .latest-blog-post-img img {
+
+		display: none;
+
+	}
+
+	.latest-blog-posts-2 .jcarousel-skin-tango .jcarousel-item-horizontal {
+
+		padding-left: 75px !important;
+
+	}
+
+	nav.site-mobile-menu > ul {
+
+		top: 80px !important;
+
+	}
+
+	.magnis-cart-totals-block .button-dark {
+
+		margin-bottom: 20px;
+
+	}
+
+	ul.children{
+
+		margin-left: 15px;
+
+	}
+
+}
+
+     
+
+@media (max-width: 767px) {
+
+	.container {
+
+		width: 450px;
+
+	}
+
+	.site-desc {
+
+		display: none;
+
+	}
+
+	.site-logo.biglogo{
+
+		max-width: 50%;
+	}
+
+	.site-desktop-menu {
+
+		display: none;
+
+	}
+
+	.header-social-buttons a i {
+
+		line-height: 25px !important;
+
+		height: 24px !important;
+
+		width: 25px !important;
+
+	}
+
+	.purchase a.button {
+
+		margin-top: 20px;
+
+	}
+
+	img.lone-img {
+
+		margin: 40px 0px;
+
+	}
+
+	.latest-projects-intro {
+
+		width: 100%;
+
+	}
+
+	.latest-projects-wrapper {
+
+		width: 100%;
+
+	}
+
+	.latest-blog-posts {
+
+		margin-bottom: 55px;
+
+	}
+
+	.footer-widget {
+
+		margin-bottom: 55px;
+
+	}
+
+	.site-footer {
+
+		padding-bottom: 0px;
+
+	}
+
+	.footer-contacts-wrapper {
+
+		background-size: auto 100%;
+
+	}
+
+	.bottom-line p,
+	.bottom-line .bottom-menu ul {
+
+		text-align: left;
+
+	}
+
+	.quick_newsletter input, .quick_newsletter input {
+
+		margin-top: 20px!important;
+
+	}
+
+	.latest-blog-posts .jcarousel-skin-tango .jcarousel-item-horizontal .latest-blog-post-details small span {
+
+		width: 100%;
+
+		float: left;
+
+		text-align: left !important;
+
+	}
+
+	.team-member {
+
+		margin-top: 40px;
+
+	}
+
+	.team-member-first {
+
+		margin-top: 20px;
+
+	}
+
+	.header-social-buttons {
+
+		margin-top: 20px;
+
+	}
+
+	.ul-style-2 li {
+
+		width: 100%;
+
+	}
+
+	.page-header p {
+
+		text-align: left;
+
+		margin-top: 20px;
+
+	}
+
+	.pr-table-featured {
+
+		margin-top: 40px;
+
+	}
+
+	.pr-table-3-wrapper table {
+
+		width: 800px;
+
+	}
+
+	.magnis-shopping-cart-details-table-wrapper .magnis-shopping-cart-details-table {
+
+		width: 800px;
+
+	}
+
+	.comment-item .comment-item {
+
+		margin-left: -30px;
+
+	}
+
+	.add-comment-form p{
+		margin: 0;
+	}
+
+	.add-comment-form p span{
+		margin-bottom: 15px;
+		float: left;
+		width: 100%;
+	}
+
+	.add-comment-form p input {
+
+		width: 100%;
+
+	}
+	.add-comment-form span.wpcf7-not-valid-tip{
+		position: static;
+		margin-bottom: 0;
+	}
+
+	.add-comment-form p input[type=submit],
+
+	.add-comment-form p.form-submit,
+
+	.add-comment-form p.name-mail {
+
+		width: 100%;
+
+		margin-right: 0;
+
+	}
+
+	#daysOne, #hoursOne, #minsOne, #secsOne{
+
+		width: 100%;
+
+	}
+
+	#wrapper {
+
+		width: 100%;
+
+	}
+
+	.main-content-soon-color {
+
+		padding: 100px 0px;
+
+	}
+
+	.header-sub-wrapper-3 {
+
+		max-width: none;
+
+	}
+
+	.header-sub-wrapper-3 .header-social-buttons-3 {
+
+		margin-top: 20px;
+
+	}
+
+	.header-search {
+
+		display: none;
+
+	}
+
+	.gray-line-3 {
+
+		top: 109px !important;
+
+	}
+
+	.testimonials-2 .jcarousel-skin-tango .jcarousel-item-horizontal {
+
+		padding-left: 55px;
+
+	}
+
+	.testimonials-2 ul li > i {
+
+		left: 0px;
+
+	}
+
+	.testimonials-2 ul li  img {
+
+		display: none;
+
+	}
+
+	.buy-now-block a.button {
+
+		margin-top: 20px;
+
+	}
+
+	.latest-projects .latest-projects-wrapper {
+
+		width: 100%;
+
+	}
+
+	.latest-projects .latest-projects-intro {
+
+		width: 100%;
+
+	}
+
+	.latest-projects .latest-projects-intro p {
+
+		margin-top: 0px;
+
+	}
+
+	.magnis-product-item {
+
+		margin-bottom: 40px;
+
+	}
+
+	.magnis-shop .magnis-pagination {
+
+		margin-top: 0px;
+
+	}
+
+	.magnis-pagination > a, .magnis-pagination > span {
+
+		margin-bottom: 20px;
+
+	}
+
+	.magnis-releated-products .magnis-product-item {
+
+		margin-bottom: 40px;
+
+	}
+
+	.magnis-product-item-single-img, .magnis-product-item-single-desc {
+
+		width: 100%;
+
+	}
+
+	footer .magnis-widget{
+
+		padding-bottom: 20px;
+
+	}
+
+	.breadcrumb{display: none;}
+
+
+
+	.latest-blog-posts, .wpb_column {
+
+		margin-bottom: 20px!important;
+		overflow: hidden;
+
+	}
+
+	.wpb_column:last-child{
+
+		margin-bottom: 0!important;
+
+	}
+	.newsletters-2 .quick-letter p{
+		max-width: none;
+	}
+	#contact span.wpcf7-not-valid-tip{
+		padding-left: 0;
+	}
+	#contact input, #contact textarea, #contact select{
+		width: 100%;
+	}
+
+}
+
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+
+	.site-desc {
+
+		display: none;
+
+	}
+
+	.site-desktop-menu {
+
+		display: none;
+
+	}
+
+	.footer-filckr-wrapper {
+
+		height: 153px;
+
+	}
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+	.home-slider {
+
+		height: 425px;
+
+	}
+
+	nav.site-desktop-menu > ul > li > a {
+
+		font-size: 14px;
+
+	}
+
+	.site-desc {
+
+		display: none;
+
+	}
+
+	.header-contacts .contact-1, .header-contacts .contact-2 {
+
+		display: none;
+
+	}
+
+	.header-contacts p {
+
+		margin-right: 20px;
+
+	}
+
+	.header-contacts p i {
+
+		display: inline-block !important;
+
+	}
+
+	nav.site-desktop-menu > ul > li {
+
+		margin-left: 22px;
+
+	}
+
+	nav.site-desktop-menu-2 > ul > li {
+		margin: 0 20px;
+	}
+
+	nav.site-desktop-menu-2 > ul > li > a {
+
+		line-height: 80px;
+
+	}
+	nav.site-desktop-menu-2 > ul > li > ul {
+
+		top: 80px;
+
+	}
+
+	.site-mobile-menu {
+
+		display: none;
+
+	}
+
+	.site-logo {
+
+		margin-right: 0px;
+
+		font-size: 24px !important;
+
+	}
+	.header-search{
+		margin: 20px 0;
+	}
+	.header-social-buttons-3{
+		margin-top: 10px;
+		float: none;
+	}
+
+	.site-logo-3{
+		margin-right: 15px;
+	}
+
+	.purchase a.button {
+
+		width: 100%;
+
+	}
+
+	.latest-projects-intro p {
+
+		margin-top: 0;
+
+	}
+
+	.latest-projects-intro h2 {
+
+		font-size: 18px;
+
+		line-height: 18px;
+
+	}
+
+	.latest-blog-posts .jcarousel-skin-tango .jcarousel-item-horizontal .latest-blog-post-details small span {
+
+		width: 100%;
+
+		float: left;
+
+		text-align: left !important;
+
+	}
+
+	.team-member .soc-buttons a {
+
+		font-size: 18px;
+
+		width: 40px;
+
+	}
+
+	.ul-style-2 li {
+
+		width: 100%;
+
+	}
+
+	.add-comment-form p input {
+
+		width: 176px;
+
+	}
+
+	.buy-now-block a.button i {
+
+		display: none;
+
+	}
+
+	.newsletters-1 .quick_newsletter .btn i {
+
+		display: none;
+
+	}
+
+	.newsletter input {
+
+		width: 100%!important;
+
+	}
+
+	.footer-newsletters .quick_newsletter .btn {
+
+		float: right;
+
+	}
+
+	.magnis-product-item {
+
+		margin-bottom: 20px;
+
+	}
+
+	.magnis-shop .magnis-pagination {
+
+		margin-top: 20px;
+
+	}
+
+	.magnis-cart-totals-block .button-dark {
+
+		margin-bottom: 20px;
+
+	}
+
+	.footer-contacts-wrapper ul li.li2{
+
+		width: 100%;
+
+	}
+	#contact textarea{
+		max-width: 232px;
+	}
+	footer .magnis-widget{
+		padding-bottom: 20px;
+	}
+
+}
+
+
+
+@media (min-width: 980px) and (max-width: 1199px) {
+
+	.site-mobile-menu {
+
+		display: none;
+
+	}
+
+	.purchase a.button {
+
+		width: 100%;
+
+	}
+
+	.latest-projects-intro p {
+
+		font-size: 12px;
+
+		line-height: 18px;
+
+	}
+
+	nav.site-desktop-menu-2{
+		float: left;
+	}
+
+	nav.site-desktop-menu-2 > ul{
+		width: auto;
+	}
+
+	.add-comment-form p input {
+
+		width: 258px;
+
+	}
+
+	.newsletter input {
+
+		width: 100%!important;
+
+	}
+
+	.footer-newsletters .quick_newsletter .btn {
+
+		float: right;
+
+	}
+
+	.magnis-product-item {
+
+		margin-bottom: 20px;
+
+	}
+
+	.magnis-shop .magnis-pagination {
+
+		margin-top: 20px;
+
+	}
+
+	nav.site-desktop-menu > ul > li {
+
+		margin-left: 30px;
+
+	}
+
+	nav.site-desktop-menu-2 > ul > li {
+
+		margin: 0 15px;
+
+	}
+
+	.sidebar-posts .sorting-filters a{
+		margin-right: 4px;
+	}
+}
+
+     
+
+@media (min-width: 768px) and (max-width: 1199px) {
+
+	.magnis-shopping-cart p a.button-color {
+
+		margin-bottom: 10px;
+
+	}
+
+}
+
+@media (min-width: 1200px) {
+
+	.site-mobile-menu {
+
+		display: none;
+
+	}
+
+	.magnis-product-item {
+
+		margin-bottom: 30px;
+
+	}
+
+	.magnis-shop .magnis-pagination {
+
+		margin-top: 10px;
+
+	}
+
+	nav.site-desktop-menu-2{
+		float: left;
+	}
+}

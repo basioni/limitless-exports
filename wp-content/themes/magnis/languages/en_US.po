@@ -1,0 +1,1958 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Magnis v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-20 07:37:10+0000\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:13
+#@ magnis
+msgid "Back To Home"
+msgstr ""
+
+#: archive-portfolio.php:59
+#: page-templates/portfolio-3cols.php:83
+#: page-templates/portfolio-4cols .php:83
+#: page-templates/portfolio-5cols.php:65
+#: taxonomy-categories.php:61
+#@ magnis
+msgid "all"
+msgstr ""
+
+#: archive-portfolio.php:247
+#: index.php:127
+#: page-templates/portfolio-3cols.php:271
+#: page-templates/portfolio-4cols .php:271
+#: page-templates/portfolio-5cols.php:253
+#: page-templates/template-blog.php:153
+#: taxonomy-categories.php:209
+#@ magnis
+msgid "Prev"
+msgstr ""
+
+#: archive-portfolio.php:249
+#: index.php:129
+#: page-templates/portfolio-3cols.php:273
+#: page-templates/portfolio-4cols .php:273
+#: page-templates/portfolio-5cols.php:255
+#: page-templates/template-blog.php:155
+#: taxonomy-categories.php:211
+#@ magnis
+msgid "Next"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+#@ magnis
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+#@ magnis
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:29
+#@ magnis
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+#@ magnis
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:39
+#@ magnis
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:47
+#@ magnis
+msgid "Archives"
+msgstr ""
+
+#: archive.php:111
+#: author.php:79
+#: category.php:79
+#: index.php:105
+#: page-templates/template-blog.php:131
+#: search.php:73
+#: tag.php:73
+#@ magnis
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: author.php:17
+#, php-format
+#@ magnis
+msgid "All posts by: <span>%s</span>"
+msgstr ""
+
+#: category.php:15
+#: taxonomy-categories.php:15
+#, php-format
+#@ magnis
+msgid "Category: <span>%s</span>"
+msgstr ""
+
+#: category.php:47
+#@ magnis
+msgid "posts under"
+msgstr ""
+
+#: category.php:47
+#@ magnis
+msgid "category"
+msgstr ""
+
+#: comments.php:20
+#: framework/widget/tabbed.php:385
+#@ magnis
+msgid "Comments"
+msgstr ""
+
+#: comments.php:90
+#@ magnis
+msgid "add a comment"
+msgstr ""
+
+#: comments.php:52
+#@ magnis
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:54
+#@ magnis
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+#@ magnis
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:98
+#: comments.php:108
+#@ magnis
+msgid "your comment"
+msgstr ""
+
+#: comments.php:100
+#@ magnis
+msgid "your name"
+msgstr ""
+
+#: comments.php:102
+#@ magnis
+msgid "your email"
+msgstr ""
+
+#: comments.php:110
+#: woocommerce/single-product-reviews.php:67
+#@ magnis
+#@ woocommerce
+msgid "Submit"
+msgstr ""
+
+#: content-audio.php:31
+#: content-gallery.php:51
+#: content-quote.php:39
+#: content-video.php:31
+#: content.php:31
+#: framework/widget/tabbed.php:247
+#: framework/widget/tabbed.php:381
+#@ magnis
+msgid "0 Comment"
+msgstr ""
+
+#: content-audio.php:31
+#: content-gallery.php:51
+#: content-quote.php:39
+#: content-video.php:31
+#: content.php:31
+#: framework/widget/tabbed.php:255
+#: framework/widget/tabbed.php:389
+#@ magnis
+msgid "1 Comment"
+msgstr ""
+
+#: content-audio.php:31
+#: content-gallery.php:51
+#: content-quote.php:39
+#: content-video.php:31
+#: content.php:31
+#@ magnis
+msgid "% Comments"
+msgstr ""
+
+#: framework/headers/header3.php:13
+#@ magnis
+msgid "type and search..."
+msgstr ""
+
+#: functions.php:134
+#@ magnis
+msgid "posted on"
+msgstr ""
+
+#: framework/headers/header3.php:14
+#: functions.php:152
+#: functions.php:577
+#@ magnis
+#@ woocommerce
+msgid "Search"
+msgstr ""
+
+#: framework/post_type.php:8
+#: framework/post_type.php:12
+#: framework/post_type.php:52
+#@ magnis
+msgid "Portfolio"
+msgstr ""
+
+#: framework/post_type.php:16
+#: framework/post_type.php:20
+#@ magnis
+msgid "Add New Portfolio"
+msgstr ""
+
+#: framework/post_type.php:24
+#@ magnis
+msgid "Edit Portfolio"
+msgstr ""
+
+#: framework/post_type.php:28
+#@ magnis
+msgid "New Portfolio"
+msgstr ""
+
+#: framework/post_type.php:32
+#@ magnis
+msgid "View Portfolio"
+msgstr ""
+
+#: framework/post_type.php:36
+#@ magnis
+msgid "Search Portfolios"
+msgstr ""
+
+#: framework/post_type.php:40
+#@ magnis
+msgid "No Portfolios found"
+msgstr ""
+
+#: framework/post_type.php:44
+#@ magnis
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: framework/post_type.php:48
+#@ magnis
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: framework/post_type.php:196
+#: framework/post_type.php:200
+#@ magnis
+msgid "Portfolio Categories"
+msgstr ""
+
+#: framework/post_type.php:204
+#: framework/post_type.php:746
+#: framework/post_type.php:904
+#@ magnis
+msgid "Search Categories"
+msgstr ""
+
+#: framework/post_type.php:208
+#: framework/post_type.php:748
+#: framework/post_type.php:906
+#@ magnis
+msgid "All Categories"
+msgstr ""
+
+#: framework/post_type.php:212
+#: framework/post_type.php:750
+#: framework/post_type.php:908
+#@ magnis
+msgid "Parent Categories"
+msgstr ""
+
+#: framework/post_type.php:216
+#: framework/post_type.php:752
+#: framework/post_type.php:910
+#@ magnis
+msgid "Parent Categories:"
+msgstr ""
+
+#: framework/post_type.php:220
+#: framework/post_type.php:754
+#: framework/post_type.php:912
+#@ magnis
+msgid "Edit Categories"
+msgstr ""
+
+#: framework/post_type.php:224
+#: framework/post_type.php:756
+#: framework/post_type.php:914
+#@ magnis
+msgid "Update Categories"
+msgstr ""
+
+#: framework/post_type.php:228
+#: framework/post_type.php:758
+#: framework/post_type.php:916
+#@ magnis
+msgid "Add New Categories"
+msgstr ""
+
+#: framework/post_type.php:232
+#: framework/post_type.php:760
+#: framework/post_type.php:918
+#@ magnis
+msgid "New Categories Name"
+msgstr ""
+
+#: framework/post_type.php:236
+#: framework/post_type.php:762
+#: framework/post_type.php:920
+#@ magnis
+msgid "Categories"
+msgstr ""
+
+#: framework/post_type.php:336
+#: framework/post_type.php:340
+#: framework/post_type.php:376
+#: ReduxFramework/sample/sample-config.php:397
+#@ magnis
+#@ redux-framework-demo
+msgid "Tags"
+msgstr ""
+
+#: framework/post_type.php:344
+#@ magnis
+msgid "Search Tags"
+msgstr ""
+
+#: framework/post_type.php:348
+#@ magnis
+msgid "All Tags"
+msgstr ""
+
+#: framework/post_type.php:352
+#@ magnis
+msgid "Parent Tags"
+msgstr ""
+
+#: framework/post_type.php:356
+#@ magnis
+msgid "Parent Tags:"
+msgstr ""
+
+#: framework/post_type.php:360
+#@ magnis
+msgid "Edit Tags"
+msgstr ""
+
+#: framework/post_type.php:364
+#@ magnis
+msgid "Update Tags"
+msgstr ""
+
+#: framework/post_type.php:368
+#@ magnis
+msgid "Add New Tags"
+msgstr ""
+
+#: framework/post_type.php:372
+#@ magnis
+msgid "New Tags Name"
+msgstr ""
+
+#: framework/post_type.php:452
+#: framework/post_type.php:456
+#@ magnis
+msgid "Testimonial"
+msgstr ""
+
+#: framework/post_type.php:460
+#@ magnis
+msgid "Add Testimonial"
+msgstr ""
+
+#: framework/post_type.php:464
+#: framework/post_type.php:472
+#@ magnis
+msgid "Add new testimonial"
+msgstr ""
+
+#: framework/post_type.php:468
+#@ magnis
+msgid "Edit testimonial"
+msgstr ""
+
+#: framework/post_type.php:476
+#@ magnis
+msgid "All Testimonials"
+msgstr ""
+
+#: framework/post_type.php:480
+#@ magnis
+msgid "View testimonial"
+msgstr ""
+
+#: framework/post_type.php:484
+#@ magnis
+msgid "Search testimonial"
+msgstr ""
+
+#: framework/post_type.php:488
+#@ magnis
+msgid "No testimonial found.."
+msgstr ""
+
+#: framework/post_type.php:492
+#@ magnis
+msgid "No testimonial found in Trash."
+msgstr ""
+
+#: framework/post_type.php:576
+#: framework/post_type.php:580
+#@ magnis
+msgid "Testimonial Categories"
+msgstr ""
+
+#: framework/post_type.php:584
+#@ magnis
+msgid "Search Category testimonial"
+msgstr ""
+
+#: framework/post_type.php:588
+#@ magnis
+msgid "All Category testimonial"
+msgstr ""
+
+#: framework/post_type.php:592
+#@ magnis
+msgid "Edit Category testimonial"
+msgstr ""
+
+#: framework/post_type.php:596
+#@ magnis
+msgid "Add new Category testimonial"
+msgstr ""
+
+#: framework/post_type.php:600
+#@ magnis
+msgid "Category Testimonial"
+msgstr ""
+
+#: framework/post_type.php:648
+#: framework/post_type.php:650
+#@ magnis
+msgid "Team"
+msgstr ""
+
+#: framework/post_type.php:652
+#: framework/post_type.php:654
+#@ magnis
+msgid "Add New Team"
+msgstr ""
+
+#: framework/post_type.php:656
+#@ magnis
+msgid "Edit Team"
+msgstr ""
+
+#: framework/post_type.php:658
+#@ magnis
+msgid "New Team"
+msgstr ""
+
+#: framework/post_type.php:660
+#@ magnis
+msgid "View Team"
+msgstr ""
+
+#: framework/post_type.php:662
+#@ magnis
+msgid "Search Teams"
+msgstr ""
+
+#: framework/post_type.php:664
+#@ magnis
+msgid "No Teams found"
+msgstr ""
+
+#: framework/post_type.php:666
+#@ magnis
+msgid "No Teams found in Trash"
+msgstr ""
+
+#: framework/post_type.php:668
+#@ magnis
+msgid "Parent Team:"
+msgstr ""
+
+#: framework/post_type.php:670
+#: vc_shortcode.php:1127
+#@ magnis
+msgid "Our Team"
+msgstr ""
+
+#: framework/post_type.php:742
+#: framework/post_type.php:744
+#@ magnis
+msgid "Team Categories"
+msgstr ""
+
+#: framework/post_type.php:806
+#: framework/post_type.php:808
+#@ magnis
+msgid "FAQ"
+msgstr ""
+
+#: framework/post_type.php:810
+#: framework/post_type.php:812
+#@ magnis
+msgid "Add New FAQ"
+msgstr ""
+
+#: framework/post_type.php:814
+#@ magnis
+msgid "Edit FAQ"
+msgstr ""
+
+#: framework/post_type.php:816
+#@ magnis
+msgid "New FAQ"
+msgstr ""
+
+#: framework/post_type.php:818
+#@ magnis
+msgid "All FAQs"
+msgstr ""
+
+#: framework/post_type.php:820
+#@ magnis
+msgid "View FAQ"
+msgstr ""
+
+#: framework/post_type.php:822
+#@ magnis
+msgid "Search FAQs"
+msgstr ""
+
+#: framework/post_type.php:824
+#@ magnis
+msgid "No FAQs found"
+msgstr ""
+
+#: framework/post_type.php:826
+#@ magnis
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: framework/post_type.php:828
+#@ magnis
+msgid "Parent FAQ:"
+msgstr ""
+
+#: framework/post_type.php:830
+#@ magnis
+msgid "FAQs"
+msgstr ""
+
+#: framework/post_type.php:900
+#: framework/post_type.php:902
+#@ magnis
+msgid "FAQ Categories"
+msgstr ""
+
+#: framework/widget/contact-info.php:29
+#@ magnis
+msgid "Magnis Contact Info"
+msgstr ""
+
+#: framework/widget/contact-info.php:41
+#@ magnis
+msgid "Magnis Contact Info Footer Widget"
+msgstr ""
+
+#: framework/widget/contact-info.php:111
+#: framework/widget/contact-info.php:231
+#@ magnis
+msgid "Address:"
+msgstr ""
+
+#: framework/widget/contact-info.php:115
+#@ magnis
+msgid "Phone:"
+msgstr ""
+
+#: framework/widget/contact-info.php:119
+#: woocommerce/emails/admin-new-order.php:53
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/customer-processing-order.php:54
+#: woocommerce/emails/plain/admin-new-order.php:42
+#: woocommerce/emails/plain/customer-completed-order.php:41
+#: woocommerce/emails/plain/customer-note.php:49
+#: woocommerce/emails/plain/customer-processing-order.php:41
+#: woocommerce/order/order-details.php:99
+#@ magnis
+#@ woocommerce
+msgid "Email:"
+msgstr ""
+
+#: framework/widget/contact-info.php:183
+#: framework/widget/socials.php:303
+#: framework/widget/tabbed.php:621
+#: framework/widget/tweets.php:385
+#@ magnis
+#@ mint
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/contact-info.php:199
+#: woocommerce/single-product-reviews.php:64
+#@ magnis
+#@ woocommerce
+msgid "Email"
+msgstr ""
+
+#: framework/widget/contact-info.php:215
+#@ magnis
+msgid "Phone Number:"
+msgstr ""
+
+#: framework/widget/flickr.php:21
+#@ magnis
+msgid "Displays your latest Flickr feed."
+msgstr ""
+
+#: framework/widget/flickr.php:49
+#@ magnis
+msgid "Flickr"
+msgstr ""
+
+#: framework/widget/flickr.php:181
+#@ magnis
+msgid "Flickr Name"
+msgstr ""
+
+#: framework/widget/flickr.php:201
+#@ magnis
+msgid "Flickr Type:"
+msgstr ""
+
+#: framework/widget/flickr.php:209
+#@ magnis
+msgid "user"
+msgstr ""
+
+#: framework/widget/flickr.php:213
+#@ magnis
+msgid "group"
+msgstr ""
+
+#: framework/widget/flickr.php:237
+#@ magnis
+msgid "Flickr ID"
+msgstr ""
+
+#: framework/widget/flickr.php:261
+#@ magnis
+msgid "Number of photos:"
+msgstr ""
+
+#: framework/widget/socials.php:41
+#@ magnis
+msgid "Magnis Socials"
+msgstr ""
+
+#: framework/widget/socials.php:53
+#@ magnis
+msgid "Magnis Socials Footer"
+msgstr ""
+
+#: framework/widget/socials.php:321
+#@ magnis
+msgid "Link Facebook:"
+msgstr ""
+
+#: framework/widget/socials.php:337
+#@ magnis
+msgid "Link Google+:"
+msgstr ""
+
+#: framework/widget/socials.php:353
+#@ magnis
+msgid "Link Twitter:"
+msgstr ""
+
+#: framework/widget/socials.php:369
+#@ magnis
+msgid "Link Youtube:"
+msgstr ""
+
+#: framework/widget/socials.php:385
+#@ magnis
+msgid "Link Linkedin:"
+msgstr ""
+
+#: framework/widget/socials.php:401
+#@ magnis
+msgid "Link Dribbble:"
+msgstr ""
+
+#: framework/widget/socials.php:417
+#@ magnis
+msgid "Link Skype:"
+msgstr ""
+
+#: framework/widget/socials.php:433
+#@ magnis
+msgid "Link Rss:"
+msgstr ""
+
+#: framework/widget/tabbed.php:121
+#@ magnis
+msgid "Display popular posts, recent posts, recent commets, and tags in an animated tabs."
+msgstr ""
+
+#: framework/widget/tabbed.php:125
+#@ magnis
+msgid "Magnis Tab Widget"
+msgstr ""
+
+#: framework/widget/tabbed.php:251
+#@ magnis
+msgid " Comments"
+msgstr ""
+
+#: framework/widget/tabbed.php:263
+#: framework/widget/tabbed.php:397
+#@ magnis
+msgid "Comments are off for this post."
+msgstr ""
+
+#: framework/widget/tabbed.php:543
+#@ magnis
+msgid "on"
+msgstr ""
+
+#: framework/widget/tabbed.php:633
+#@ magnis
+msgid "Popular posts:"
+msgstr ""
+
+#: framework/widget/tabbed.php:637
+#: framework/widget/tabbed.php:661
+#: framework/widget/tabbed.php:685
+#@ magnis
+msgid "Tab name: "
+msgstr ""
+
+#: framework/widget/tabbed.php:639
+#@ magnis
+msgid "Show number:"
+msgstr ""
+
+#: framework/widget/tabbed.php:657
+#@ magnis
+msgid "Recent posts:"
+msgstr ""
+
+#: framework/widget/tabbed.php:663
+#@ magnis
+msgid "Show number: "
+msgstr ""
+
+#: framework/widget/tabbed.php:681
+#@ magnis
+msgid "Recent comments:"
+msgstr ""
+
+#: framework/widget/tabbed.php:687
+#@ magnis
+msgid "Limit number: "
+msgstr ""
+
+#: framework/widget/tweets.php:37
+#@ mint
+msgid "Latest tweets widget "
+msgstr ""
+
+#: framework/widget/tweets.php:53
+#@ mint
+msgid "Twitter Widget"
+msgstr ""
+
+#: framework/widget/tweets.php:369
+#@ mint
+msgid "Recent Tweets."
+msgstr ""
+
+#: framework/widget/tweets.php:369
+#@ mint
+msgid "Suono Libero"
+msgstr ""
+
+#: framework/widget/tweets.php:369
+#@ mint
+msgid "428880392213381120"
+msgstr ""
+
+#: framework/widget/tweets.php:369
+#@ mint
+msgid "twitter-posts-2"
+msgstr ""
+
+#: framework/widget/tweets.php:401
+#@ mint
+msgid "Twitter Widget ID:"
+msgstr ""
+
+#: framework/widget/tweets.php:417
+#@ mint
+msgid "Number of tweets:"
+msgstr ""
+
+#: functions.php:59
+#@ magnis
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:60
+#@ magnis
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:137
+#@ magnis
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:151
+#: functions.php:576
+#@ magnis
+#@ woocommerce
+msgid "type to search..."
+msgstr ""
+
+#: functions.php:248
+#, php-format
+#@ magnis
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:265
+#@ magnis
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:267
+#@ magnis
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: functions.php:274
+#@ magnis
+msgid "Newsletter Widget"
+msgstr ""
+
+#: functions.php:276
+#@ magnis
+msgid "Newsletter form"
+msgstr ""
+
+#: functions.php:283
+#@ magnis
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:285
+#@ magnis
+msgid "Shop sidebar that appears on the left."
+msgstr ""
+
+#: functions.php:293
+#@ magnis
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:295
+#: functions.php:305
+#: functions.php:315
+#: functions.php:325
+#@ magnis
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:303
+#@ magnis
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:313
+#@ magnis
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:323
+#@ magnis
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:356
+#@ magnis
+msgid "Home"
+msgstr ""
+
+#: functions.php:541
+#@ magnis
+msgid "Role"
+msgstr ""
+
+#: functions.php:544
+#@ magnis
+msgid "Please enter your role."
+msgstr ""
+
+#: functions.php:596
+#@ woothemes
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:596
+#, php-format
+#@ woothemes
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:625
+#@ wpb
+msgid "Section Title"
+msgstr ""
+
+#: functions.php:628
+#@ wpb
+msgid "Title of Section "
+msgstr ""
+
+#: functions.php:632
+#@ wpb
+msgid "Title Text Align"
+msgstr ""
+
+#: functions.php:635
+#@ wpb
+msgid "Left"
+msgstr ""
+
+#: functions.php:636
+#@ wpb
+msgid "Center"
+msgstr ""
+
+#: functions.php:637
+#@ wpb
+msgid "Right"
+msgstr ""
+
+#: functions.php:643
+#: functions.php:646
+#@ wpb
+msgid "Section sub Title"
+msgstr ""
+
+#: functions.php:650
+#: functions.php:653
+#: functions.php:670
+#: functions.php:673
+#@ wpb
+msgid "Container Class"
+msgstr ""
+
+#: functions.php:657
+#@ wpb
+msgid "Fullwidth"
+msgstr ""
+
+#: functions.php:660
+#@ wpb
+msgid "No"
+msgstr ""
+
+#: functions.php:661
+#@ wpb
+msgid "Yes"
+msgstr ""
+
+#: functions.php:663
+#@ wpb
+msgid "Select Fullwidth or not"
+msgstr ""
+
+#: functions.php:678
+#@ wpb
+msgid "Container id"
+msgstr ""
+
+#: functions.php:681
+#@ wpb
+msgid "Container ID"
+msgstr ""
+
+#: functions.php:686
+#@ wpb
+msgid "Column Title"
+msgstr ""
+
+#: functions.php:689
+#@ wpb
+msgid "Title of column"
+msgstr ""
+
+#: index.php:15
+#@ default
+msgid "blog_title"
+msgstr ""
+
+#: page-templates/coming-soon.php:35
+#@ magnis
+msgid "days"
+msgstr ""
+
+#: page-templates/coming-soon.php:42
+#@ magnis
+msgid "hours"
+msgstr ""
+
+#: page-templates/coming-soon.php:49
+#@ magnis
+msgid "minutes"
+msgstr ""
+
+#: page-templates/coming-soon.php:56
+#@ magnis
+msgid "seconds"
+msgstr ""
+
+#: page-templates/template-boxed.php:15
+#: page-templates/template-canvas2.php:1
+#: page-templates/template-home.php:27
+#: single-team.php:63
+#@ magnis
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: vc_shortcode.php:196
+#: vc_shortcode.php:388
+#: vc_shortcode.php:501
+#: vc_shortcode.php:652
+#: vc_shortcode.php:833
+#: vc_shortcode.php:1031
+#: vc_shortcode.php:1367
+#: vc_shortcode.php:1543
+#: vc_shortcode.php:1721
+#: vc_shortcode.php:1863
+#: vc_shortcode.php:1940
+#: vc_shortcode.php:2049
+#: vc_shortcode.php:2127
+#@ magnis
+msgid "Title"
+msgstr ""
+
+#: vc_shortcode.php:214
+#: vc_shortcode.php:1049
+#: vc_shortcode.php:1611
+#: vc_shortcode.php:1738
+#: vc_shortcode.php:2066
+#: vc_shortcode.php:2144
+#@ magnis
+msgid "Description"
+msgstr ""
+
+#: search.php:15
+#, php-format
+#@ magnis
+msgid "Search Results for: <span>%s</span>"
+msgstr ""
+
+#: shortcodes.php:484
+#@ magnis
+msgid "read more"
+msgstr ""
+
+#: single.php:214
+#@ magnis
+msgid "related posts"
+msgstr ""
+
+#: tag.php:15
+#, php-format
+#@ magnis
+msgid "Tag Archives: <span>%s</span>"
+msgstr ""
+
+#: vc_shortcode.php:11
+#@ magnis
+msgid " Flex Slider"
+msgstr ""
+
+#: vc_shortcode.php:31
+#@ magnis
+msgid "Images Slider"
+msgstr ""
+
+#: vc_shortcode.php:37
+#@ magnis
+msgid "Upload Image Slider"
+msgstr ""
+
+#: vc_shortcode.php:50
+#@ magnis
+msgid " Heading"
+msgstr ""
+
+#: vc_shortcode.php:70
+#@ magnis
+msgid "Text"
+msgstr ""
+
+#: vc_shortcode.php:83
+#@ magnis
+msgid "Element Tag"
+msgstr ""
+
+#: vc_shortcode.php:89
+#@ magnis
+msgid "h2"
+msgstr ""
+
+#: vc_shortcode.php:91
+#@ magnis
+msgid "h3"
+msgstr ""
+
+#: vc_shortcode.php:93
+#@ magnis
+msgid "h4"
+msgstr ""
+
+#: vc_shortcode.php:95
+#@ magnis
+msgid "h5"
+msgstr ""
+
+#: vc_shortcode.php:97
+#@ magnis
+msgid "h6"
+msgstr ""
+
+#: vc_shortcode.php:99
+#@ magnis
+msgid "p"
+msgstr ""
+
+#: vc_shortcode.php:101
+#@ magnis
+msgid "div"
+msgstr ""
+
+#: vc_shortcode.php:104
+#@ magnis
+msgid "Section Element Tag"
+msgstr ""
+
+#: vc_shortcode.php:117
+#@ magnis
+msgid "left"
+msgstr ""
+
+#: vc_shortcode.php:119
+#@ magnis
+msgid "right"
+msgstr ""
+
+#: vc_shortcode.php:121
+#@ magnis
+msgid "center"
+msgstr ""
+
+#: vc_shortcode.php:123
+#@ magnis
+msgid "justify"
+msgstr ""
+
+#: vc_shortcode.php:127
+#: vc_shortcode.php:616
+#: vc_shortcode.php:2095
+#@ magnis
+msgid "Section Overlay"
+msgstr ""
+
+#: vc_shortcode.php:138
+#@ magnis
+msgid "Font Size"
+msgstr ""
+
+#: vc_shortcode.php:155
+#: vc_shortcode.php:790
+#@ magnis
+msgid "Color"
+msgstr ""
+
+#: vc_shortcode.php:177
+#@ default
+msgid " Who We Are"
+msgstr ""
+
+#: vc_shortcode.php:202
+#: vc_shortcode.php:394
+#: vc_shortcode.php:507
+#@ magnis
+msgid "Title call to action"
+msgstr ""
+
+#: vc_shortcode.php:220
+#@ magnis
+msgid "Description about"
+msgstr ""
+
+#: vc_shortcode.php:232
+#@ magnis
+msgid "Sign Author"
+msgstr ""
+
+#: vc_shortcode.php:250
+#@ magnis
+msgid "Position Author"
+msgstr ""
+
+#: vc_shortcode.php:272
+#@ magnis
+msgid " Services"
+msgstr ""
+
+#: vc_shortcode.php:292
+#@ magnis
+msgid "Icon Left"
+msgstr ""
+
+#: vc_shortcode.php:298
+#@ magnis
+msgid "Input class icon. Ex: magic. Find here: <a href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:309
+#@ magnis
+msgid "Title Feature"
+msgstr ""
+
+#: vc_shortcode.php:327
+#@ magnis
+msgid "Description Feature"
+msgstr ""
+
+#: vc_shortcode.php:340
+#: vc_shortcode.php:1100
+#@ magnis
+msgid "Style Show"
+msgstr ""
+
+#: vc_shortcode.php:346
+#@ magnis
+msgid "Style1: Align Center"
+msgstr ""
+
+#: vc_shortcode.php:348
+#@ magnis
+msgid "Style2: Align Left"
+msgstr ""
+
+#: vc_shortcode.php:369
+#@ default
+msgid " Call To Action 1"
+msgstr ""
+
+#: vc_shortcode.php:406
+#: vc_shortcode.php:519
+#: vc_shortcode.php:1881
+#@ magnis
+msgid "Subtitle"
+msgstr ""
+
+#: vc_shortcode.php:412
+#: vc_shortcode.php:525
+#@ magnis
+msgid "Subtitle call to action"
+msgstr ""
+
+#: vc_shortcode.php:424
+#: vc_shortcode.php:732
+#@ magnis
+msgid "Button Text"
+msgstr ""
+
+#: vc_shortcode.php:430
+#@ magnis
+msgid "Label button"
+msgstr ""
+
+#: vc_shortcode.php:441
+#@ magnis
+msgid "Icon Button"
+msgstr ""
+
+#: vc_shortcode.php:447
+#@ magnis
+msgid "Input class icon. Ex: check-circle. Find here: <a href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:459
+#: vc_shortcode.php:766
+#@ magnis
+msgid "Button Link"
+msgstr ""
+
+#: vc_shortcode.php:482
+#@ default
+msgid " Call To Action 2"
+msgstr ""
+
+#: vc_shortcode.php:537
+#@ magnis
+msgid "Button Text 1"
+msgstr ""
+
+#: vc_shortcode.php:543
+#: vc_shortcode.php:579
+#@ magnis
+msgid "Label button 1"
+msgstr ""
+
+#: vc_shortcode.php:555
+#@ magnis
+msgid "Button Link 1"
+msgstr ""
+
+#: vc_shortcode.php:561
+#@ magnis
+msgid "Link 1"
+msgstr ""
+
+#: vc_shortcode.php:573
+#@ magnis
+msgid "Button Text 2"
+msgstr ""
+
+#: vc_shortcode.php:591
+#@ magnis
+msgid "Button Link 2"
+msgstr ""
+
+#: vc_shortcode.php:597
+#@ magnis
+msgid "Link 2"
+msgstr ""
+
+#: vc_shortcode.php:604
+#@ magnis
+msgid "Style Call To Action"
+msgstr ""
+
+#: vc_shortcode.php:610
+#@ magnis
+msgid "Style1: Align Left"
+msgstr ""
+
+#: vc_shortcode.php:612
+#@ magnis
+msgid "Style2: Align Center"
+msgstr ""
+
+#: vc_shortcode.php:632
+#@ default
+msgid "Accordion"
+msgstr ""
+
+#: vc_shortcode.php:670
+#: vc_shortcode.php:749
+#@ magnis
+msgid "Icon"
+msgstr ""
+
+#: vc_shortcode.php:676
+#@ magnis
+msgid "Icon display left title. Ex: heart. Find here: <a href='http://fontawesome.io/icons/'>http://fontawesome.io/icons</a>"
+msgstr ""
+
+#: vc_shortcode.php:688
+#@ magnis
+msgid "Content"
+msgstr ""
+
+#: vc_shortcode.php:712
+#@ default
+msgid " Button"
+msgstr ""
+
+#: vc_shortcode.php:755
+#@ magnis
+msgid "Ex: heart. Find here: <a href='http://fontawesome.io/icons/'>http://fontawesome.io/icons</a>"
+msgstr ""
+
+#: vc_shortcode.php:784
+#@ magnis
+msgid "Button Type"
+msgstr ""
+
+#: vc_shortcode.php:792
+#@ magnis
+msgid "Dark"
+msgstr ""
+
+#: vc_shortcode.php:794
+#@ magnis
+msgid "Border"
+msgstr ""
+
+#: vc_shortcode.php:813
+#@ magnis
+msgid " Testimonials"
+msgstr ""
+
+#: vc_shortcode.php:839
+#@ magnis
+msgid "Title Testimonials"
+msgstr ""
+
+#: vc_shortcode.php:847
+#@ magnis
+msgid "Style Testimonials"
+msgstr ""
+
+#: vc_shortcode.php:853
+#: vc_shortcode.php:1681
+#@ magnis
+msgid "Style1"
+msgstr ""
+
+#: vc_shortcode.php:855
+#: vc_shortcode.php:1683
+#@ magnis
+msgid "Style2"
+msgstr ""
+
+#: vc_shortcode.php:874
+#@ magnis
+msgid " Clients Logo"
+msgstr ""
+
+#: vc_shortcode.php:900
+#@ magnis
+msgid "Upload Logo Client"
+msgstr ""
+
+#: vc_shortcode.php:915
+#@ magnis
+msgid " Latest News"
+msgstr ""
+
+#: vc_shortcode.php:935
+#@ magnis
+msgid "Title Latest News"
+msgstr ""
+
+#: vc_shortcode.php:941
+#@ magnis
+msgid "Title Latest News."
+msgstr ""
+
+#: vc_shortcode.php:952
+#@ magnis
+msgid "Number Post"
+msgstr ""
+
+#: vc_shortcode.php:958
+#@ magnis
+msgid "number post view."
+msgstr ""
+
+#: vc_shortcode.php:969
+#@ magnis
+msgid "Show Number of excerpt length"
+msgstr ""
+
+#: vc_shortcode.php:975
+#@ magnis
+msgid "number excerpt length view."
+msgstr ""
+
+#: vc_shortcode.php:983
+#@ magnis
+msgid "Visible Posts"
+msgstr ""
+
+#: vc_shortcode.php:989
+#@ magnis
+msgid "1"
+msgstr ""
+
+#: vc_shortcode.php:991
+#@ magnis
+msgid "2"
+msgstr ""
+
+#: vc_shortcode.php:1011
+#@ magnis
+msgid " Latest Projects"
+msgstr ""
+
+#: vc_shortcode.php:1067
+#@ magnis
+msgid "Show number of Portfolio"
+msgstr ""
+
+#: vc_shortcode.php:1080
+#@ magnis
+msgid "Visible Portfolio"
+msgstr ""
+
+#: vc_shortcode.php:1086
+#@ magnis
+msgid "5"
+msgstr ""
+
+#: vc_shortcode.php:1088
+#@ magnis
+msgid "4"
+msgstr ""
+
+#: vc_shortcode.php:1090
+#@ magnis
+msgid "3"
+msgstr ""
+
+#: vc_shortcode.php:1106
+#@ magnis
+msgid "Style1: Full Width"
+msgstr ""
+
+#: vc_shortcode.php:1108
+#@ magnis
+msgid "Style2: Title Left"
+msgstr ""
+
+#: vc_shortcode.php:1147
+#@ magnis
+msgid "Photo"
+msgstr ""
+
+#: vc_shortcode.php:1153
+#@ magnis
+msgid "Image of team: 500x500"
+msgstr ""
+
+#: vc_shortcode.php:1164
+#: woocommerce/single-product-reviews.php:62
+#@ magnis
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: vc_shortcode.php:1170
+#@ magnis
+msgid "Name of team"
+msgstr ""
+
+#: vc_shortcode.php:1181
+#: vc_shortcode.php:1628
+#@ magnis
+msgid "Details"
+msgstr ""
+
+#: vc_shortcode.php:1187
+#@ magnis
+msgid "Details of team"
+msgstr ""
+
+#: vc_shortcode.php:1198
+#@ magnis
+msgid "Icon Social 1"
+msgstr ""
+
+#: vc_shortcode.php:1204
+#@ magnis
+msgid "Icon of social 1"
+msgstr ""
+
+#: vc_shortcode.php:1215
+#@ magnis
+msgid "Link Social 1"
+msgstr ""
+
+#: vc_shortcode.php:1221
+#@ magnis
+msgid "Link of social 1"
+msgstr ""
+
+#: vc_shortcode.php:1232
+#@ magnis
+msgid "Icon Social 2"
+msgstr ""
+
+#: vc_shortcode.php:1238
+#@ magnis
+msgid "Icon of social 2"
+msgstr ""
+
+#: vc_shortcode.php:1249
+#@ magnis
+msgid "Link Social 2"
+msgstr ""
+
+#: vc_shortcode.php:1255
+#@ magnis
+msgid "Link of social 2"
+msgstr ""
+
+#: vc_shortcode.php:1266
+#@ magnis
+msgid "Icon Social 3"
+msgstr ""
+
+#: vc_shortcode.php:1272
+#@ magnis
+msgid "Icon of social 3"
+msgstr ""
+
+#: vc_shortcode.php:1283
+#@ magnis
+msgid "Link Social 3"
+msgstr ""
+
+#: vc_shortcode.php:1289
+#@ magnis
+msgid "Link of social 3"
+msgstr ""
+
+#: vc_shortcode.php:1305
+#@ magnis
+msgid "Team Slider"
+msgstr ""
+
+#: vc_shortcode.php:1324
+#@ magnis
+msgid "Title Slider"
+msgstr ""
+
+#: vc_shortcode.php:1347
+#@ default
+msgid " Our Skills"
+msgstr ""
+
+#: vc_shortcode.php:1373
+#@ magnis
+msgid "Title Skill."
+msgstr ""
+
+#: vc_shortcode.php:1385
+#@ magnis
+msgid "Percent"
+msgstr ""
+
+#: vc_shortcode.php:1391
+#@ magnis
+msgid "Percent Skill"
+msgstr ""
+
+#: vc_shortcode.php:1405
+#@ magnis
+msgid "List FAQs"
+msgstr ""
+
+#: vc_shortcode.php:1425
+#@ magnis
+msgid "Extra Class"
+msgstr ""
+
+#: vc_shortcode.php:1442
+#@ magnis
+msgid "Text Before Filter"
+msgstr ""
+
+#: vc_shortcode.php:1463
+#: vc_shortcode.php:1482
+#@ magnis
+msgid "Quick Question"
+msgstr ""
+
+#: vc_shortcode.php:1500
+#@ magnis
+msgid "Quick Answer"
+msgstr ""
+
+#: vc_shortcode.php:1523
+#@ default
+msgid " Pricing Tables"
+msgstr ""
+
+#: vc_shortcode.php:1577
+#: woocommerce/cart/cart.php:33
+#: woocommerce/emails/admin-new-order.php:24
+#: woocommerce/emails/customer-completed-order.php:25
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/customer-processing-order.php:25
+#@ magnis
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: vc_shortcode.php:1594
+#@ magnis
+msgid "Long Time"
+msgstr ""
+
+#: vc_shortcode.php:1645
+#: vc_shortcode.php:1761
+#@ magnis
+msgid "Label Button"
+msgstr ""
+
+#: vc_shortcode.php:1662
+#: vc_shortcode.php:1772
+#@ magnis
+msgid "Link Button"
+msgstr ""
+
+#: vc_shortcode.php:1687
+#@ magnis
+msgid "Seclect One"
+msgstr ""
+
+#: vc_shortcode.php:1701
+#@ magnis
+msgid "Featured Box"
+msgstr ""
+
+#: vc_shortcode.php:1755
+#@ magnis
+msgid "Text Button"
+msgstr ""
+
+#: vc_shortcode.php:1789
+#@ magnis
+msgid "Background Color"
+msgstr ""
+
+#: vc_shortcode.php:1795
+#@ magnis
+msgid "Background Color Box"
+msgstr ""
+
+#: vc_shortcode.php:1806
+#@ magnis
+msgid "Text Color"
+msgstr ""
+
+#: vc_shortcode.php:1812
+#@ magnis
+msgid "Text Color Box"
+msgstr ""
+
+#: vc_shortcode.php:1823
+#@ magnis
+msgid "Border Color"
+msgstr ""
+
+#: vc_shortcode.php:1829
+#@ magnis
+msgid "Border Color Box"
+msgstr ""
+
+#: vc_shortcode.php:1843
+#@ magnis
+msgid " Newsletters"
+msgstr ""
+
+#: vc_shortcode.php:1898
+#@ magnis
+msgid "Button Submit"
+msgstr ""
+
+#: vc_shortcode.php:1920
+#@ magnis
+msgid " Download Box"
+msgstr ""
+
+#: vc_shortcode.php:1957
+#@ magnis
+msgid "Image File"
+msgstr ""
+
+#: vc_shortcode.php:1975
+#@ magnis
+msgid "File Name"
+msgstr ""
+
+#: vc_shortcode.php:1992
+#@ magnis
+msgid "Text Button Download"
+msgstr ""
+
+#: vc_shortcode.php:2009
+#@ magnis
+msgid "Link Download"
+msgstr ""
+
+#: vc_shortcode.php:2029
+#@ magnis
+msgid "Message Box"
+msgstr ""
+
+#: vc_shortcode.php:2085
+#@ magnis
+msgid "Success"
+msgstr ""
+
+#: vc_shortcode.php:2087
+#@ magnis
+msgid "Error"
+msgstr ""
+
+#: vc_shortcode.php:2089
+#@ magnis
+msgid "Info"
+msgstr ""
+
+#: vc_shortcode.php:2091
+#@ magnis
+msgid "Attention"
+msgstr ""
+
+#: vc_shortcode.php:2107
+#@ magnis
+msgid "Contact Info"
+msgstr ""
+
+#: vc_shortcode.php:2162
+#@ magnis
+msgid "Google Map"
+msgstr ""
+
+#: vc_shortcode.php:2172
+#@ magnis
+msgid "ID Map"
+msgstr ""
+
+#: vc_shortcode.php:2175
+#@ magnis
+msgid "Please enter ID Map, map-canvas1, map-canvas2, map-canvas3, ..etc"
+msgstr ""
+
+#: vc_shortcode.php:2181
+#@ magnis
+msgid "Height Map"
+msgstr ""
+
+#: vc_shortcode.php:2184
+#@ magnis
+msgid "Please enter number height Map, 300, 350, 380, ..etc. Default: 420."
+msgstr ""
+
+#: vc_shortcode.php:2190
+#@ magnis
+msgid "Latitude"
+msgstr ""
+
+#: vc_shortcode.php:2193
+#@ magnis
+msgid "Please enter <a href='http://www.latlong.net/'>Latitude</a> google map"
+msgstr ""
+
+#: vc_shortcode.php:2199
+#@ magnis
+msgid "Longitude"
+msgstr ""
+
+#: vc_shortcode.php:2202
+#@ magnis
+msgid "Please enter <a href='http://www.latlong.net/'>Longitude</a> google map"
+msgstr ""
+
+#: vc_shortcode.php:2209
+#@ magnis
+msgid "Zoom Map"
+msgstr ""
+
+#: vc_shortcode.php:2212
+#@ magnis
+msgid "Please enter Zoom Map, Default: 15"
+msgstr ""
+
+#: vc_shortcode.php:2218
+#@ magnis
+msgid "Map color"
+msgstr ""
+
+#: vc_shortcode.php:2221
+#@ magnis
+msgid "Choose Map color"
+msgstr ""
+
+#: vc_shortcode.php:2227
+#@ magnis
+msgid "Company Name"
+msgstr ""
+
+#: vc_shortcode.php:2230
+#@ magnis
+msgid "Please enter Title."
+msgstr ""
+
+#: vc_shortcode.php:2240
+#@ magnis
+msgid "Icon Map marker, 47 x 68"
+msgstr ""
+
+#: vc_templates/vc_tab.php:9
+#@ js_composer
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:44
+#@ js_composer
+msgid "Previous tab"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:44
+#@ js_composer
+msgid "Next tab"
+msgstr ""

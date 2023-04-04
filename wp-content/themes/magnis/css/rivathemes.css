@@ -1,0 +1,16 @@
+.rivaslider-wrapper {
+	position: relative;
+	overflow: hidden;
+}
+.rivaslider-wrapper-inner {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	z-index: 10;
+}
+.rivaslider-wrapper-inner li{
+	width: 100%!important;
+}
+
+/* riva-countdown */

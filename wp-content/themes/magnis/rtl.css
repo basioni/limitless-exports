@@ -1,0 +1,181 @@
+/*
+Theme Name: More Theme
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+textarea, input[type="text"], select {
+	text-align: right;
+}
+.search_form:before, .search_form input.search_btn {
+	left: 0px;
+}
+/** Home **/
+p{
+    text-align:right;
+}
+.caption p, .cltInner p{
+    text-align: center;
+}
+.servicesInner{
+    margin-left: 30%;
+    margin-right: 10px!important;
+}
+.service{
+    float: right;
+    margin-right:0px;
+}
+.service i {
+float: right;
+}
+.two-thirds{
+    float:right!important;
+}
+.time{
+    float:right!important;
+}
+.submitSearch{
+    margin-right: 81%;
+}
+.wpcf7-form-control{
+    float:right!important;
+    text-align:right!important;
+}
+.blogFull .columns{
+    float:right!important;
+}
+.blogSingle .columns{
+     float:right!important;
+}
+.postContent p{
+    text-align: right!important;
+}
+.singleDetails{
+    text-align: right!important;
+}
+.tagsSingle h4{
+    float: right!important;
+}
+.comment .img{
+    float:right;
+}
+.commentContent{
+    margin-right:50px;
+}
+.entriesContainer{
+    text-align: right;
+}
+.footerholder{
+    text-align: center!important;
+}
+.footerholder p{
+    text-align: center!important;
+}
+.postContent{
+    text-align: right;
+}
+.sidebar{
+    text-align:right;
+}
+.contactInfo{
+    text-align:right;
+}
+.one-third{
+    float:left!important;
+}
+.ftDet h3, .mainTitle, .service h3, .mainTitle, .postExcerpt h1, .planBody, .planHeader, .inputColumns, .postTitle{
+    text-align:right;
+}
+.imgServices{
+    left:0;
+}
+.teamDetails .td{
+    text-align:right;
+}
+.sectitleInner{
+    margin-left:45%;
+    margin-right:0!important;
+}
+.introSocial li{
+    float:right;
+}
+.ftIco ,.tSocials{
+    float:right;
+}
+.ftDet{
+padding-right: 33px;
+}
+/**
+ * Blog Post
+ * -----------------------------------------------------------------------------
+ */
+.postcontent {
+	text-align: right;
+}
+
+/**** CONTACT ****/
+.mail-message {
+  text-align: right;
+}
+#contactform .btn.btn-default {
+  float: right;
+}
+/**
+ * 7.1 Widgets
+ * -----------------------------------------------------------------------------
+ */
+.widget li, .widget h3 {
+  text-align: right;
+}
+
+.widget_calendar caption {
+	text-align: right;
+}
+
+.widget_calendar #prev {
+	padding-right: 5px;
+	padding-left: 0;
+}
+
+.widget_calendar #next {
+	padding-right: 0;
+	padding-left: 5px;
+	text-align: left;
+}
+/**** COMMENT ****/
+.comment-respond {
+  text-align: right;
+}
+#comments h3.margbot40 {
+	text-align: right;
+}
+.form-submit {
+  text-align: right;
+}
+#comment_form input[type="submit"] {
+  display: inline-block;
+}
+
+.alert {
+  text-align: right;
+}
+.custom-heading.text-left {
+	text-align: right;
+}
+.panel-body {
+  text-align: right;
+}
+.panel-default .panel-heading .panel-title i {float: left;}
+.panel-default .panel-heading .panel-title {text-align: right;}
+.nav-tabs > li {float: right;}
+.tab-content > .tab-pane, .pill-content > .pill-pane {
+  text-align: right;
+}
+/**** Skill Bar ****/
+.progress-bar {
+	text-align: right;
+	float: right;
+}

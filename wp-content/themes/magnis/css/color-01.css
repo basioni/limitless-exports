@@ -1,0 +1,30 @@
+body, nav.site-desktop-menu > ul > li > ul, nav.site-mobile-menu > ul, .magnis-toggle section.active, .magnis-product-item figure.hovered, .magin-payment-option p.desc, nav.site-desktop-menu > ul > li ul ul {
+	border-top-color: #37c878;
+}
+nav.site-desktop-menu > ul > li a:hover, .sorting-filters a.active, .pr-table-3 thead th, .single-project-details p, .magnis-shopping-cart-details thead {
+	border-bottom-color: #37c878;
+}
+.main-content blockquote {
+	border-left-color: #37c878;
+}
+.tweet-item .fa, .page-header h2 span, .breadcrumb>li+li:before, a:hover, .header-contacts p i, .purchase p.big b, .purchase-2 p.big b, .main-content h2 b, .intro p.sign, .feature i, .testimonials-1 .jcarousel-skin-tango .jcarousel-item-horizontal div span, .testimonials-1 .jcarousel-skin-tango .jcarousel-item-horizontal div i, .latest-projects-wrapper .jcarousel-skin-tango .jcarousel-item-horizontal .project-details .buttons i, .latest-projects-wrapper .jcarousel-skin-tango .jcarousel-item-horizontal .project-details p.project-tags i, .latest-projects-wrapper .jcarousel-skin-tango .jcarousel-item-horizontal .project-details p a:hover, .footer-latest-tweets .jcarousel-skin-tango .jcarousel-item-horizontal p.username i, .footer-widget a, .footer-latest-tweets .jcarousel-skin-tango .jcarousel-prev-horizontal, .footer-latest-tweets .jcarousel-skin-tango .jcarousel-next-horizontal, .bottom-line a, .footer-latest-tweets .jcarousel-skin-tango .jcarousel-next-horizontal i,  .footer-latest-tweets .jcarousel-skin-tango .jcarousel-prev-horizontal i, .page-header p i, .magnis-toggle section.active header, ul.ul-style-1 li i, .offer-item i, .ul-style-2 li i, .sorting-filters a.active, .quick-info-item i, .pr-table-1 header p.price span, .pr-table-1 section ul li strong, .pr-table-2 header p.featured, .pr-table-3 td i.fa-check-circle, .pr-table-3 td strong, .pr-table-3 .options i, .sidebar .widget_categories ul li i, .project-item .project-details .buttons i, a.button-border:hover, .single-project-details p span, .main-content h3 span, .contact-info p i, ul li i.fa, .list-style-4 li i, .home-3-features i, .buy-now-block h3 b, .testimonials-2 ul li > i, .testimonials-2 .jcarousel-skin-tango .jcarousel-item-horizontal p span, .magnis-shop-sorting li i, .magnis-product-item .product-desc p.price, .magnis-product-item-hover a, .magnis-shopping-cart p span, .magnis-product-item-single-desc .price > span, .customers-reviews-list h3 span, .magnis-shopping-cart-details p.title i, .magnis-shopping-cart-details p.title span, .magnis-shopping-cart-details-table .product-total, .magnis-cart-totals tr.total td.td2, .magnis-tabs header p.active, .magnis-product-total tbody tr.sec2 td.td2, .home-slider .block-2 {
+	color: #37c878;
+}
+.site-logo, .footer-about-logo {
+	background-image: url(../images/site-logo-color-1.png);
+}
+.riva-countdown .riva-countdown-item .label, .newsletter input.newsletter-submit, .header-social-buttons a i:hover, nav.site-mobile-menu li.hovered, nav.site-desktop-menu > ul > li li.hovered, .button-color, .latest-projects-intro, .newsletters-1, .latest-blog-posts .jcarousel-skin-tango .jcarousel-item-horizontal .latest-blog-post-img .latest-blog-post-date, .magnis-skills section .skill-value .skill-value-chart, .team-member .soc-buttons, .pr-table-1 header p.head, .pr-table-2 header p.featured, .sidebar-posts-item .date, .post-item .date, .add-comment-form p input[type=submit], .main-content-soon-color, .home-3-features-item i.hover, .feature i.hover, form.magnis-product-item-review p button {
+	background-color: #37c878;
+}
+.feature i, .latest-projects-wrapper .jcarousel-skin-tango .jcarousel-item-horizontal .project-details, .latest-projects-wrapper .jcarousel-skin-tango .jcarousel-item-horizontal .project-details .buttons i, .footer-latest-tweets .jcarousel-skin-tango .jcarousel-prev-horizontal, .footer-latest-tweets .jcarousel-skin-tango .jcarousel-next-horizontal, .magnis-skills section .skill-value, .offer-item i, .magnis-tabs header p.active, .quick-info-item i, .sidebar-search-active, .project-item .project-details, .project-item .project-details .buttons i, a.button-border:hover, .add-comment-form-active, .home-3-features i, .header-search-focused, .magnis-product-item-hover, .magnis-product-item-hover a, .magnis-shipping .focused, .magnis-promo .focused, .magnis-checkout-block .focused {
+	border-color: #37c878;
+}
+.add-comment-form .add-comment-form-active, form.magnis-product-item-review p input.focused, form.magnis-product-item-review p textarea.focused {
+	border: 1px solid #37c878;
+}
+.main-content-soon-color {
+	background-color: rgba(55, 200, 120, 0.7);
+}
+.magnis-404 .focused {
+	border-color: #37c878 !important;
+}
